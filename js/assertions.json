@@ -1,0 +1,10 @@
+{
+  "simulation": "KarateSimulate",
+  "simulationId": "karatesimulate",
+  "start": 1596739137110,
+  "description": "",
+  "scenarios": ["Get Scores for instruments"],
+  "assertions": [
+
+  ]
+}
